@@ -5,3 +5,4 @@
 -Added image to home page next to bio
     -Added random link to the image
 -Used one of Bootstrap's forms components to create the user input fields for entering one's contact information
+-Added bootstrap cards to portfolio page to represent future projects
